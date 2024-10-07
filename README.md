@@ -2,9 +2,9 @@
 
 ## Описание / Overview
 
-Этот проект — простое CLI клиент-серверное приложение для управления заметками через TCP-соединение. Клиенты могут подключаться к серверу, авторизовываться, создавать заметки, редактировать их, просматривать список заметок, а также делиться заметками с другими пользователями.
+Этот проект — решение лабораторного задания по программированию на Java - простое CLI клиент-серверное приложение для управления заметками через TCP-соединение. Клиенты могут подключаться к серверу, авторизовываться, создавать заметки, редактировать их, просматривать список заметок, а также делиться заметками с другими пользователями.
 
-This project is a simple CLI client-server application for managing notes using TCP connections. Users can connect to the server, authenticate, create notes, view their list of notes, edit, delete, and share them with other users. 
+This project is a a solution for a laboratory assignment in Java programming - simple CLI client-server application for managing notes using TCP connections. Users can connect to the server, authenticate, create notes, view their list of notes, edit, delete, and share them with other users. 
 
 ## Основные возможности / Key Features
 
