@@ -67,6 +67,6 @@ The client provides a console-based interface where users can connect to the ser
 
 
 
-### TO-DO
-  # Add TLS and encryption of user files (In Progress)
-  # Add GUI 
+# TO-DO
+  ### Add TLS and encryption of user files (In Progress)
+  ### Add GUI 
